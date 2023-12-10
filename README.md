@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi, there
+Hi, there </br>
 I'm currently studying at Can Tho University, majoring in Software Engineering.
 
 ## 🌐Socials
