@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khoa</h1>
 
 <h3 align="left">About me:</h3>
+
 - 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **khoa.nphucnguyen@gmail.com**
