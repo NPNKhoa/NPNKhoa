@@ -73,13 +73,15 @@
 
 <div align="center" style="margin-bottom: 12px">
     <img src="https://cdn.dribbble.com/users/4708248/screenshots/14864517/media/b062fc11710dae270fd4d914a6ff3f60.gif"align="left" width="200px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NPNKhoa&langs_count=10&show_icons=true&layout=compact&theme=light" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NPNKhoa&show_icons=true&count_private=true&hide_border=true" align="center"/>
     <img src="https://i.pinimg.com/originals/41/9d/20/419d205306b70170f9a05ab0c290c4bf.gif"align="right" width="180px">
+
 </div>
 
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NPNKhoa" alt="Gift's LangStat" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NPNKhoa&show_icons=true&count_private=true&hide_border=true" align="right"/>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NPNKhoa" alt="Gift's LangStat" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NPNKhoa&langs_count=10&show_icons=true&layout=compact&theme=light" align="right" style="height: 200px"/>
+
 </div>
 
 <br/>
