@@ -1,21 +1,20 @@
-### <div align="center">Hi there 👋, I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>  
-  
+<div align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif"
+    width="250px" alt="hello-world">
+</div>
 
-- ❓ Ask me about anything related to the Software Development Process  
-  
+### <div align="center">Hi there 👋, I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>
 
-- ⚡ Fun fact: I'm excited to research anything related to technology.  
-  
+- ❓ Ask me about anything related to the Software Development Process
 
-<br/>  
+- ⚡ Fun fact: I'm excited to research anything related to technology.
 
+## My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -29,9 +28,8 @@
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -43,9 +41,8 @@
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -56,12 +53,10 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+## Connect with me
 
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/NPNKhoa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -72,31 +67,19 @@
 <a href="https://linkedin.com/in/nyka1603" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+## Github Stats
 
+<div align="center" style="margin-bottom: 12px">
+    <img src="https://cdn.dribbble.com/users/4708248/screenshots/14864517/media/b062fc11710dae270fd4d914a6ff3f60.gif"align="left" width="200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NPNKhoa&langs_count=10&show_icons=true&layout=compact&theme=light" align="center" />
+    <img src="https://i.pinimg.com/originals/41/9d/20/419d205306b70170f9a05ab0c290c4bf.gif"align="right" width="180px">
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NPNKhoa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NPNKhoa" alt="Gift's LangStat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NPNKhoa&show_icons=true&count_private=true&hide_border=true" align="right"/>
+</div>
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
