@@ -3,7 +3,7 @@
     width="250px" alt="hello-world">
 </div>
 
-### <div align="center">Hi there 👋, I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>
+### <div align="center">👋 Hi there 👋 I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>
 
 - ❓ Ask me about anything related to the Software Development Process
 
@@ -79,7 +79,7 @@
 </div>
 
 <div>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NPNKhoa" alt="Gift's LangStat" style="height: 180px"/>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NPNKhoa" alt="GitHub Streak" style="height: 180px"/></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NPNKhoa&langs_count=10&show_icons=true&layout=compact&theme=light" align="right" style="height: 180px"/>
 
 </div>
