@@ -1,7 +1,4 @@
-
-
-### About me  
-### <div align="center">I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>  
+### <div align="center">Hi there 👋, I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>  
   
 
 - ❓ Ask me about anything related to the Software Development Process  
