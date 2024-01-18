@@ -79,7 +79,7 @@
 </div>
 
 <div>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NPNKhoa" style="height: 180px />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NPNKhoa" alt="Gift's LangStat" style="height: 180px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NPNKhoa&langs_count=10&show_icons=true&layout=compact&theme=light" align="right" style="height: 180px"/>
 
 </div>
