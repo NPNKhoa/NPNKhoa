@@ -9,7 +9,7 @@
 
 - ❓ Ask me about anything related to the Software Development Process
 
-- ⚡ Fun fact: I'm excited to learn about anything related to technology.
+- ⚡ Fun fact: I'm excited to learn anything about technology.
 
 ## My Skill Set
 
