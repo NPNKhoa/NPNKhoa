@@ -6,6 +6,7 @@
 </div>
 
 ### <div align="center">👋 Hi, I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>
+### <div align="center">HAPPY NEW YEAR 2024 🎆🎆🎆</div>
 
 - ❓ Ask me about anything related to the Software Development Process
 
