@@ -1,7 +1,9 @@
 ## About me
 
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif"
+<!--     <img src="https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif"
+    width="250px" alt="hello-world"> -->
+    <img src="[https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhappy-new-year-2024&psig=AOvVaw2UzdxkHDanNiRbVmy5azo6&ust=1707754261917000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCtjsTWo4QDFQAAAAAdAAAAABAJ)"
     width="250px" alt="hello-world">
 </div>
 
