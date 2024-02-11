@@ -3,7 +3,7 @@
 <div align="center">
 <!--     <img src="https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif"
     width="250px" alt="hello-world"> -->
-    <img src="https://media.tenor.com/U-qA_fqLHW0AAAAj/new-year-happy-new-year.gif"
+    <img src="https://media4.giphy.com/media/5WcpKJct7pDgLzqSji/200w.gif?cid=6c09b952d42b5dfete44e28ow0ga9av84sbrbxwxqtu5z2rn&ep=v1_gifs_search&rid=200w.gif&ct=g"
     width="250px" alt="hello-world">
 </div>
 
