@@ -8,9 +8,10 @@
 
 ## About me
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif"
-    width="250px" alt="happy-new-year">
+<!--     <img src="https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif"
+    width="250px" alt="happy-new-year"> -->
 </div>
+
 ### <div align="center">👋 Hi, I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>
 
 - ❓ Ask me about anything related to the Software Development Process
