@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://media4.giphy.com/media/5WcpKJct7pDgLzqSji/200w.gif?cid=6c09b952d42b5dfete44e28ow0ga9av84sbrbxwxqtu5z2rn&ep=v1_gifs_search&rid=200w.gif&ct=g"
+    <img src="https://iphone2lovely.com/newyear/wp-content/uploads/2022/08/Happy-New-Year-2024-Gifs-animated-image-hd.gif"
     width="250px" alt="hello-world">
 </div>
 
