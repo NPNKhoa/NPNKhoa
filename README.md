@@ -1,16 +1,9 @@
-
 <div align="center">
-    <img src="https://iphone2lovely.com/newyear/wp-content/uploads/2022/08/Happy-New-Year-2024-Gifs-animated-image-hd.gif"
-    width="250px" alt="hello-world">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif"
+    width="250px" alt="happy-new-year">
 </div>
-
-### <div align="center">HAPPY NEW YEAR 2024 🎆🎆🎆</div>
 
 ## About me
-<div align="center">
-<!--     <img src="https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif"
-    width="250px" alt="happy-new-year"> -->
-</div>
 
 ### <div align="center">👋 Hi, I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>
 
