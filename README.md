@@ -84,7 +84,7 @@
 <div>
 <!--     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NPNKhoa" alt="GitHub Streak" style="height: 180px"/></a> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NPNKhoa" align="left" height="180px" alt="Gift's LangStat" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NPNKhoa&langs_count=10&show_icons=true&layout=compact&theme=light" align="right" style="height: 180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NPNKhoa&langs_count=5&show_icons=true&layout=compact&theme=light" align="right" style="height: 180px"/>
 
 </div>
 
