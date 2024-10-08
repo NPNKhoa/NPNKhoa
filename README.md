@@ -7,9 +7,7 @@
 
 ### <div align="center">👋 Hi, I'm Khoa, a student at Can Tho University studying Software Engineering major since 2021 🚀</div>
 
-- ❓ Ask me about anything related to the Software Development Process
-
-- ⚡ Fun fact: I'm excited to learn anything about technology.
+<div align="center">🔭 I'm very excited to research any new things related to technology and learn it quickly ⚡</div>
 
 ## My Skill Set
 
@@ -75,18 +73,8 @@
 ## Github Stats
 
 <div align="center" style="margin-bottom: 12px">
-    <img src="https://cdn.dribbble.com/users/4708248/screenshots/14864517/media/b062fc11710dae270fd4d914a6ff3f60.gif"align="left" width="180px">
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=NPNKhoa&show_icons=true" align="center"/>
-    <img src="https://i.pinimg.com/originals/41/9d/20/419d205306b70170f9a05ab0c290c4bf.gif"align="right" width="160px">
-<!--     https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif -->
-
-</div>
-
-<div>
-<!--     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NPNKhoa" alt="GitHub Streak" style="height: 180px"/></a> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NPNKhoa" align="left" height="180px" alt="Gift's LangStat" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NPNKhoa&langs_count=5&show_icons=true&layout=compact&theme=light" align="right" style="height: 180px"/>
-
 </div>
 
 <br/>
